@@ -23,13 +23,14 @@ based on SalmonOnIce by Koen Lageveen
 				<string>#abaeb3</string>
 
 				<key>foreground</key>
-				<string>#abaeb3</string>
+				<string>#aeb2b6</string>
 
 				<key>invisibles</key>
 				<string>#3F454C</string>
 
 				<key>lineHighlight</key>
-				<string>#3F454C25</string>
+				<string>#282b30</string>
+				<!-- <string>#1d1d1d</string> -->
 
 				<key>selection</key>
 				<string>#10507077</string>
@@ -47,10 +48,11 @@ based on SalmonOnIce by Koen Lageveen
 				<string>#3F454C</string>
 
 				<key>activeGuide</key>
-				<string>#4c769788</string>
+				<string>#fffbf388</string>
+				<!-- <string>#3ca38099</string> -->
 
 				<key>gutter</key>
-				<string>#1f1f1f</string>
+				<string>#202122</string>
 			</dict>
 		</dict>
 		<dict>
@@ -296,7 +298,7 @@ based on SalmonOnIce by Koen Lageveen
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E85451</string>
+				<string>#e00033</string>
 			</dict>
 		</dict>
 		<dict>
@@ -307,7 +309,7 @@ based on SalmonOnIce by Koen Lageveen
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E85451</string>
+				<string>#e03588</string>
 			</dict>
 		</dict>
 		<dict>
